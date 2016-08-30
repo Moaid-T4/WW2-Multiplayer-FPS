@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: d3edb7c617596fa4bbb45d10529e630a
+timeCreated: 1459136638
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_Parts
+    100004: Gloves
+    100006: //RootNode
+    100008: knife3d
+    100010: left_arm
+    100012: left_elbow
+    100014: left_hand
+    100016: LeftHandIndex1
+    100018: LeftHandIndex2
+    100020: LeftHandIndex3
+    100022: LeftHandIndex4
+    100024: LeftHandMiddle1
+    100026: LeftHandMiddle2
+    100028: LeftHandMiddle3
+    100030: LeftHandPinky1
+    100032: LeftHandPinky2
+    100034: LeftHandPinky3
+    100036: LeftHandPinky4
+    100038: LeftHandRing1
+    100040: LeftHandRing2
+    100042: LeftHandRing3
+    100044: LeftHandRing4
+    100046: LeftHandThumb1
+    100048: LeftHandThumb2
+    100050: LeftHandThumb3
+    100052: LeftHandThumb4
+    100054: mixamorig_LeftHandMiddle4
+    100056: right_arm
+    100058: right_elbow
+    100060: right_hand
+    100062: RightHandIndex1
+    100064: RightHandIndex2
+    100066: RightHandIndex3
+    100068: RightHandIndex4
+    100070: RightHandMiddle1
+    100072: RightHandMiddle2
+    100074: RightHandMiddle3
+    100076: RightHandMiddle4
+    100078: RightHandPinky1
+    100080: RightHandPinky2
+    100082: RightHandPinky3
+    100084: RightHandPinky4
+    100086: RightHandRing1
+    100088: RightHandRing2
+    100090: RightHandRing3
+    100092: RightHandRing4
+    100094: RightHandThumb1
+    100096: RightHandThumb2
+    100098: RightHandThumb3
+    100100: RightHandThumb4
+    100102: Skin
+    100104: Skin_2
+    100106: Skin_2_2
+    100108: Skin_3
+    100110: Skin_3_2
+    100112: Skin_4
+    100114: Tops
+    400000: Body
+    400002: Body_Parts
+    400004: Gloves
+    400006: //RootNode
+    400008: knife3d
+    400010: left_arm
+    400012: left_elbow
+    400014: left_hand
+    400016: LeftHandIndex1
+    400018: LeftHandIndex2
+    400020: LeftHandIndex3
+    400022: LeftHandIndex4
+    400024: LeftHandMiddle1
+    400026: LeftHandMiddle2
+    400028: LeftHandMiddle3
+    400030: LeftHandPinky1
+    400032: LeftHandPinky2
+    400034: LeftHandPinky3
+    400036: LeftHandPinky4
+    400038: LeftHandRing1
+    400040: LeftHandRing2
+    400042: LeftHandRing3
+    400044: LeftHandRing4
+    400046: LeftHandThumb1
+    400048: LeftHandThumb2
+    400050: LeftHandThumb3
+    400052: LeftHandThumb4
+    400054: mixamorig_LeftHandMiddle4
+    400056: right_arm
+    400058: right_elbow
+    400060: right_hand
+    400062: RightHandIndex1
+    400064: RightHandIndex2
+    400066: RightHandIndex3
+    400068: RightHandIndex4
+    400070: RightHandMiddle1
+    400072: RightHandMiddle2
+    400074: RightHandMiddle3
+    400076: RightHandMiddle4
+    400078: RightHandPinky1
+    400080: RightHandPinky2
+    400082: RightHandPinky3
+    400084: RightHandPinky4
+    400086: RightHandRing1
+    400088: RightHandRing2
+    400090: RightHandRing3
+    400092: RightHandRing4
+    400094: RightHandThumb1
+    400096: RightHandThumb2
+    400098: RightHandThumb3
+    400100: RightHandThumb4
+    400102: Skin
+    400104: Skin_2
+    400106: Skin_2_2
+    400108: Skin_3
+    400110: Skin_3_2
+    400112: Skin_4
+    400114: Tops
+    2300000: knife3d
+    3300000: knife3d
+    4300000: Body
+    4300002: Gloves
+    4300004: Tops
+    4300006: knife3d
+    9500000: //RootNode
+    13700000: Body
+    13700002: Gloves
+    13700004: Tops
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

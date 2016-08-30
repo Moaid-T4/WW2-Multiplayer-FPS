@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: b5cf792d5637ea34e8d5e09b70eaecd5
+timeCreated: 1459149075
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: body
+    100004: Body_Parts
+    100006: drum_mag
+    100008: Gloves
+    100010: left_arm
+    100012: left_elbow
+    100014: left_hand
+    100016: LeftHandIndex1
+    100018: LeftHandIndex2
+    100020: LeftHandIndex3
+    100022: LeftHandIndex4
+    100024: LeftHandMiddle1
+    100026: LeftHandMiddle2
+    100028: LeftHandMiddle3
+    100030: LeftHandPinky1
+    100032: LeftHandPinky2
+    100034: LeftHandPinky3
+    100036: LeftHandPinky4
+    100038: LeftHandRing1
+    100040: LeftHandRing2
+    100042: LeftHandRing3
+    100044: LeftHandRing4
+    100046: LeftHandThumb1
+    100048: LeftHandThumb2
+    100050: LeftHandThumb3
+    100052: LeftHandThumb4
+    100054: mixamorig_LeftHandMiddle4
+    100056: //RootNode
+    100058: PPSh_41
+    100060: right_arm
+    100062: right_elbow
+    100064: right_hand
+    100066: RightHandIndex1
+    100068: RightHandIndex2
+    100070: RightHandIndex3
+    100072: RightHandIndex4
+    100074: RightHandMiddle1
+    100076: RightHandMiddle2
+    100078: RightHandMiddle3
+    100080: RightHandMiddle4
+    100082: RightHandPinky1
+    100084: RightHandPinky2
+    100086: RightHandPinky3
+    100088: RightHandPinky4
+    100090: RightHandRing1
+    100092: RightHandRing2
+    100094: RightHandRing3
+    100096: RightHandRing4
+    100098: RightHandThumb1
+    100100: RightHandThumb2
+    100102: RightHandThumb3
+    100104: RightHandThumb4
+    100106: Skin
+    100108: Skin_2
+    100110: Skin_2_2
+    100112: Skin_2_2_2
+    100114: Skin_3
+    100116: Skin_3_2
+    100118: Skin_3_2_2
+    100120: Skin_4
+    100122: Skin_4_2
+    100124: stock
+    100126: Tops
+    400000: Body
+    400002: body
+    400004: Body_Parts
+    400006: drum_mag
+    400008: Gloves
+    400010: left_arm
+    400012: left_elbow
+    400014: left_hand
+    400016: LeftHandIndex1
+    400018: LeftHandIndex2
+    400020: LeftHandIndex3
+    400022: LeftHandIndex4
+    400024: LeftHandMiddle1
+    400026: LeftHandMiddle2
+    400028: LeftHandMiddle3
+    400030: LeftHandPinky1
+    400032: LeftHandPinky2
+    400034: LeftHandPinky3
+    400036: LeftHandPinky4
+    400038: LeftHandRing1
+    400040: LeftHandRing2
+    400042: LeftHandRing3
+    400044: LeftHandRing4
+    400046: LeftHandThumb1
+    400048: LeftHandThumb2
+    400050: LeftHandThumb3
+    400052: LeftHandThumb4
+    400054: mixamorig_LeftHandMiddle4
+    400056: //RootNode
+    400058: PPSh_41
+    400060: right_arm
+    400062: right_elbow
+    400064: right_hand
+    400066: RightHandIndex1
+    400068: RightHandIndex2
+    400070: RightHandIndex3
+    400072: RightHandIndex4
+    400074: RightHandMiddle1
+    400076: RightHandMiddle2
+    400078: RightHandMiddle3
+    400080: RightHandMiddle4
+    400082: RightHandPinky1
+    400084: RightHandPinky2
+    400086: RightHandPinky3
+    400088: RightHandPinky4
+    400090: RightHandRing1
+    400092: RightHandRing2
+    400094: RightHandRing3
+    400096: RightHandRing4
+    400098: RightHandThumb1
+    400100: RightHandThumb2
+    400102: RightHandThumb3
+    400104: RightHandThumb4
+    400106: Skin
+    400108: Skin_2
+    400110: Skin_2_2
+    400112: Skin_2_2_2
+    400114: Skin_3
+    400116: Skin_3_2
+    400118: Skin_3_2_2
+    400120: Skin_4
+    400122: Skin_4_2
+    400124: stock
+    400126: Tops
+    2300000: body
+    2300002: drum_mag
+    2300004: stock
+    3300000: body
+    3300002: drum_mag
+    3300004: stock
+    4300000: Body
+    4300002: Gloves
+    4300004: Tops
+    4300006: drum_mag
+    4300008: stock
+    4300010: body
+    9500000: //RootNode
+    13700000: Body
+    13700002: Gloves
+    13700004: Tops
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
